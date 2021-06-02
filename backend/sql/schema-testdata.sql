@@ -1,5 +1,5 @@
-CREATE DATABASE  IF NOT EXISTS `2021-forum` /*!40100 DEFAULT CHARACTER SET utf8 */;
-USE `2021-forum`;
+CREATE DATABASE  IF NOT EXISTS `forum` /*!40100 DEFAULT CHARACTER SET utf8 */;
+USE `forum`;
 -- MySQL dump 10.13  Distrib 8.0.14, for macos10.14 (x86_64)
 --
 -- Host: localhost    Database: 2021-forum

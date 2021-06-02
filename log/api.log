@@ -1,0 +1,6 @@
+{
+  service: 'user-service',
+  level: 'debug',
+  message: 'foo What time is the testing at?',
+  timestamp: '2021-02-24T11:10:10.039Z'
+}
